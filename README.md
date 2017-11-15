@@ -4,3 +4,5 @@
 Continuous integration for third semester
 
 Link: [Præsentation about CI](https://jegp.github.io/cphbusiness-sem3-ci/presentation.html#/)
+
+[![Build Status](https://travis-ci.org/Jegp/cphbusiness-sem3-ci.svg?branch=fix)](https://travis-ci.org/Jegp/cphbusiness-sem3-ci)
